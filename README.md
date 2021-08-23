@@ -7,8 +7,8 @@ Three techniques were followed that included:
 3. LSTM model
 
 The papers referred for each technique:
-SGT- https://arxiv.org/abs/1608.03533v5
-Autoencoder- https://arxiv.org/abs/1907.05597
-LSTM- https://ur.booksc.eu/book/82230776/a4975b
+1. SGT- https://arxiv.org/abs/1608.03533v5
+2. Autoencoder- https://arxiv.org/abs/1907.05597
+3. LSTM- https://ur.booksc.eu/book/82230776/a4975b
 
 Achieved upto **77%** accuracy in predicting the ouputs using these embeddings.
